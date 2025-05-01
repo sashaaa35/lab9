@@ -1,0 +1,19 @@
+{
+    "title": "Register",
+    "name": "Your Name",
+    "email": "Your Email",
+    "username": "Username",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "register": "Register",
+    "form_hint": "Sign up once and watch any of our free demos.",
+    "name_required": "Name is required",
+    "email_required": "Email is required",
+    "invalid_email": "Enter a valid email",
+    "username_required": "Username is required",
+    "password_required": "Password is required",
+    "password_length": "Password must be at least 6 characters",
+    "password_mismatch": "Passwords do not match",
+    "success": "Registration successful"
+  }
+  
